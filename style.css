@@ -1,0 +1,10 @@
+
+p{
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    color: blue;
+    border-radius: 6px;
+    border: 1px solid lightblue;
+    padding: 10px;
+}
